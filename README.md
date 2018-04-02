@@ -29,3 +29,12 @@ A place to keep a collection of tools I've used that turned out to be good.
 - xfce4, xfce4-goodies, whisker-menu
 
 ## Android
+
+
+## Chrome
+- OneTab - Move tabs into a single managed tab. Saves memory and keeps your browser responsive. Easy export/import of URLs (delimited by |).
+- SessionBuddy - Save sessions (tabs - basically, it's easier Bookmarks. Because there's no crash protection (or at least, crash protection doesn't actually work).
+- Adguard. Block annoyances.
+- Wappanalyzer
+- Ebates. Save a % on your purchase.
+- User-agent switcher.
