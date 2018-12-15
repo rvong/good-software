@@ -29,36 +29,34 @@ A place to keep a collection of tools I've used that turned out to be good.
 - xfce4, xfce4-goodies, whisker-menu
 
 ## Android
-1Weather
-BofA
-G Cloud (Owned by Zoolz)/Cloud Gallery - Backs up photos, contacts, call and sms history.
-HD Camera
-Keep My Notes
-MightyText
-Nova Launcher
-OneBusAway
-Outlook
-Personal Capital
-OpenCamera
-QuickPic
-radio.net?
-RadPad?
-SmsLater
-Stocard
-TinyScanner
-TripAdvisor
-Truecaller
-TuneIn Radio
-Turo
-Waze
-Yelp
-Z Camera
-Zedge (Wallpapers)
-ZERO Dialer
-ZERO SMs
+- 1Weather
+- BofA
+- G Cloud (Owned by Zoolz)/Cloud Gallery - Backs up photos, contacts, call and sms history.
+- HD Camera
+- Keep My Notes
+- MightyText
+- Nova Launcher
+- OneBusAway
+- Outlook
+- Personal Capital
+- OpenCamera
+- QuickPic
+- SmsLater
+- Stocard
+- TinyScanner
+- TripAdvisor
+- Truecaller
+- Turo
+- Waze
+- Yelp
+- Z Camera
+- Zedge (Wallpapers)
+- ZERO Dialer
+- ZERO SMs
 
-PCRadio?
-
+- TuneIn Radio
+- PCRadio?
+- radio.net
 
 ## Chrome
 - OneTab - Move tabs into a single managed tab. Saves memory and keeps your browser responsive. Easy export/import of URLs (delimited by |).
